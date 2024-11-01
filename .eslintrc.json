@@ -20,5 +20,13 @@
     ],
     "no-alert": "off",
     "no-plusplus": "off"
-}
+},
+"overrides": [
+    {
+      "files": ["tests/**/*"],
+      "env": {
+        "jest": true
+      }
+    }
+  ]
 }

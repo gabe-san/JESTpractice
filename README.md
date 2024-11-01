@@ -1,3 +1,3 @@
-# Knights Travails
+# JESTpractice
 
-Give the fastest path of a knight piece in Chess using search algorithm
+TDD js practice
